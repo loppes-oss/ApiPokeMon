@@ -1,0 +1,55 @@
+.bug{
+  background-color: rgb(22, 78, 22);
+} 
+.dark{
+  background-color: black;
+}
+.dragon{
+   background-color: cornflowerblue;
+} 
+.electric{
+ background-color: yellow;
+} 
+.fairy{
+  background-color: tomato;
+}
+.fighting{
+background-color: #fa733d;
+}
+.fire{
+   background-color: rgb(209, 15, 15);
+}
+.flying{
+  background-color: rgba(117, 193, 216, 0.808);
+}
+.ghost{
+  background-color: blueviolet;
+}
+.grass{
+  background-color: green;
+}
+.ground{
+  background-color: rgba(126, 29, 29, 0.89);
+}
+.ice{
+  background-color: mediumaquamarine;
+}
+.normal{
+  background-color: mediumorchid;
+}
+.poison{
+
+  background-color: mediumpurple;
+}
+.psychic{
+  background-color: mediumvioletred;
+}
+.rock{
+  background-color: peru;
+}
+.steel{
+  background-color: teal;
+}
+.water{
+  background-color: rgb(94, 94, 206);
+}
